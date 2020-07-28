@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- Atualmente atuo como desenvolvedor iOS
+- Atuando como desenvolvedor iOS
 - Estou desenvolvendo soluções para Telemedicina
 
 <!--
