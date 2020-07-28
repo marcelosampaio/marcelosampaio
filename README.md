@@ -1,7 +1,7 @@
 ### Olá! 👋
 
-- Atuando como desenvolvedor iOS 
-- Estou desenvolvendo soluções para Telemedicina
+- Atuando como desenvolvedor ### iOS 
+- Estou desenvolvendo soluções para ### Telemedicina
 
 <!--
 **marcelosampaio/marcelosampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
