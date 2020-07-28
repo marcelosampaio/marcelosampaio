@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- Atuando como desenvolvedor ### iOS 
+- Atuando como desenvolvedor <b>iOS</b> 
 - Estou desenvolvendo soluções para ### Telemedicina
 
 <!--
