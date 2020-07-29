@@ -2,6 +2,7 @@
 
 - Atuando como desenvolvedor <b>iOS</b> 
 - Estou desenvolvendo soluções para <b>Telemedicina</b>
+- Linkedin: https://www.linkedin.com/in/marcelo-sampaio-28a7062b/
 
 <!--
 **marcelosampaio/marcelosampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
