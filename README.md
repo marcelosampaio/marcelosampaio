@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- Atuando como desenvolvedor <b>iOS</b> 
+- Atuando como desenvolvedor <b>iOS</b>, <b>iPadOS</b>, <b>watchOS</b>, <b>macOS</b> 
 - Estou desenvolvendo soluções para <b>Telemedicina</b>
 - Conheça minhas [atividades atuais](https://www.metareports.com.br)
 - Saiba mais em meu [Linkedin](https://www.linkedin.com/in/marcelo-sampaio-28a7062b/)
