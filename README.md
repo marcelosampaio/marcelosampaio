@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! 🍺
 
 - Atuando como desenvolvedor  <b>iOS</b>
 - Estou desenvolvendo soluções para <b>Telemedicina</b>
