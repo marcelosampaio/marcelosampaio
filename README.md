@@ -1,8 +1,8 @@
 ### Olá! 🍺
 
 - Atuando como desenvolvedor  <b>iOS</b>
-- Estou desenvolvendo soluções para <b>Telemedicina</b>
-- Conheça minhas [atividades atuais](https://www.metareports.com.br)
+- Estou desenvolvendo soluções para <b>Telecomunicações e comunicação em tempo real</b>
+- Conheça minhas [atividades atuais](https://www.moochies.com)
 - Saiba mais em meu [Linkedin](https://www.linkedin.com/in/marcelo-sampaio-28a7062b/)
 <!--
 **marcelosampaio/marcelosampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
