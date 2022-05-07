@@ -1,7 +1,7 @@
 ### Olá! 🍺
 
 - Atuando como desenvolvedor  <b>iOS</b>
-- Estou desenvolvendo soluções para <b>Telecomunicações e comunicação em tempo real</b>
+- Estou junto à equipe de TI da <b>Moochies</b>
 - Conheça minhas [atividades atuais](https://www.moochies.com)
 - Saiba mais em meu [Linkedin](https://www.linkedin.com/in/marcelo-sampaio-28a7062b/)
 <!--
