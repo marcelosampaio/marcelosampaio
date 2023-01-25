@@ -1,7 +1,7 @@
 ### Olá! 🍺
 
 - Atuando como desenvolvedor  <b>iOS</b>
-- Desenvolvendo atividades junto ao time de TI da <b>Moochies</b> (https://www.moochies.com) 😊
+- Desenvolvendo atividades junto ao time de TI da <b>Premiersoft</b> (https://www.premiersoft.net) 💙
 - Saiba mais em meu [Linkedin](https://www.linkedin.com/in/marcelo-sampaio-28a7062b/)
 <!--
 **marcelosampaio/marcelosampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
