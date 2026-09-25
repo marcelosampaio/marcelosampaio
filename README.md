@@ -1,6 +1,6 @@
 ### Olá! 🍺
 
-- Atuando como analista/desenvolvendor de software <b>
+- Atuando como analista/desenvolvendor de sistemas <b>
 - Saiba mais em meu [Linkedin](https://www.linkedin.com/in/marcelo-sampaio-28a7062b/)
 <!--
 **marcelosampaio/marcelosampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
